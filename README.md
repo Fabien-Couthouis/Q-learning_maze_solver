@@ -10,7 +10,7 @@ It is assumed that the environment is fixed: the position of the elements will n
 The code provides Q-learning implementation with Q-table and with a simple neural network.
 
 ## Usage
-The code provided in the notbook can be used like this:
+The code provided in the notebook can be used like this:
 ```python
 game = Game(n=8,m=8,nb_blocks=15)
 agent = Agent(game, use_nn=True)
