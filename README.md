@@ -1,6 +1,6 @@
-# RL-maze-solver
+# Q-learning maze solver
 
-The goal here is to implement a Reinforcement Learning algorithm: Q-learning to solve a randomly generated maze.
+The goal here is to implement a Reinforcement Learning algorithm (Q-learning) to solve a randomly generated maze.
 
 ## Description 
 An robot/agent can move in a m*n maze. The environment can have a random component: with each choice of movement (up, down, left or right), the agent can move in an unwanted direction. This behavior is configurable.
